@@ -1,6 +1,5 @@
 import React, { useState } from 'react';
 import { Radio } from 'react-loader-spinner'; 
-import Autosuggest from 'react-autosuggest';
 
 
 import './App.css'
